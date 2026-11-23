@@ -1,0 +1,16 @@
+/*
+!/.gitignore
+!/README.md
+!/AppIcon.icns
+!/build.sh
+!/rust/
+/rust/*
+!/rust/.cargo/
+!/rust/.gitignore
+!/rust/build.rs
+!/rust/build-candidate.sh
+!/rust/Cargo.toml
+!/rust/Cargo.lock
+!/rust/src/
+!/rust/native/
+.DS_Store
